@@ -1,0 +1,62 @@
+========================================================================================
+12/04/2018 14:42:25 - CONEXAO SSH no Switch de IP 10.101.100.145 REALIZADA COM SUCESSO!
+12/04/2018 14:42:43 - Switch de IP 10.101.100.145 está com hora e data sincronizados!
+12/04/2018 14:42:43 - Firmware do Switch de IP 10.101.100.145 já estava atualizado
+12/04/2018 14:42:45 - CONEXAO SSH no Switch de IP 10.12.8.44 REALIZADA COM SUCESSO!
+12/04/2018 14:43:02 - Switch de IP 10.12.8.44 está com hora e data sincronizados!
+12/04/2018 14:43:02 - Firmware do Switch de IP 10.12.8.44 já estava atualizado
+12/04/2018 14:43:05 - CONEXAO SSH no Switch de IP 10.12.8.96 REALIZADA COM SUCESSO!
+12/04/2018 14:43:22 - Switch de IP 10.12.8.96 está com hora e data sincronizados!
+12/04/2018 14:43:22 - Firmware do Switch de IP 10.12.8.96 já estava atualizado
+12/04/2018 14:43:24 - CONEXAO SSH no Switch de IP 10.12.8.93 REALIZADA COM SUCESSO!
+12/04/2018 14:43:42 - Switch de IP 10.12.8.93 está com hora e data sincronizados!
+12/04/2018 14:43:42 - Firmware do Switch de IP 10.12.8.93 já estava atualizado
+12/04/2018 14:43:44 - CONEXAO SSH no Switch de IP 10.0.60.42 REALIZADA COM SUCESSO!
+12/04/2018 14:44:02 - Switch de IP 10.0.60.42 está com hora e data sincronizados!
+12/04/2018 14:44:02 - Switch de IP 10.0.60.42 iniciou o processo de atualizacao de Firmware
+12/04/2018 14:44:02 - Validacao e escrita de Firmware no filesystem do Switch de IP 10.0.60.42 DEU CERTO!!!...reiniciando o switch...
+12/04/2018 14:49:29 - CONEXAO SSH no Switch de IP 10.0.60.42 PARA VERIFICACAO FINAL REALIZADA COM SUCESSO!
+12/04/2018 14:49:29 - Firmware do Switch de IP 10.0.60.42 atualizado com SUCESSO!
+12/04/2018 14:49:34 - CONEXAO SSH no Switch de IP 10.0.60.43 REALIZADA COM SUCESSO!
+12/04/2018 14:49:52 - Switch de IP 10.0.60.43 está com hora e data sincronizados!
+12/04/2018 14:49:52 - Switch de IP 10.0.60.43 iniciou o processo de atualizacao de Firmware
+12/04/2018 14:49:52 - Validacao e escrita de Firmware no filesystem do Switch de IP 10.0.60.43 DEU CERTO!!!...reiniciando o switch...
+12/04/2018 14:55:20 - CONEXAO SSH no Switch de IP 10.0.60.43 PARA VERIFICACAO FINAL REALIZADA COM SUCESSO!
+12/04/2018 14:55:20 - Firmware do Switch de IP 10.0.60.43 atualizado com SUCESSO!
+========================================================================================
+12/04/2018 15:25:55 - CONEXAO SSH no Switch de IP 10.101.100.145 REALIZADA COM SUCESSO!
+12/04/2018 15:26:13 - Switch de IP 10.101.100.145 está com hora e data sincronizados!
+12/04/2018 15:26:13 - Firmware do Switch de IP 10.101.100.145 já estava atualizado
+12/04/2018 15:26:16 - CONEXAO SSH no Switch de IP 10.12.8.44 REALIZADA COM SUCESSO!
+12/04/2018 15:26:33 - Switch de IP 10.12.8.44 está com hora e data sincronizados!
+12/04/2018 15:26:33 - Firmware do Switch de IP 10.12.8.44 já estava atualizado
+12/04/2018 15:26:36 - CONEXAO SSH no Switch de IP 10.12.8.96 REALIZADA COM SUCESSO!
+12/04/2018 15:26:54 - Switch de IP 10.12.8.96 está com hora e data sincronizados!
+12/04/2018 15:26:54 - Firmware do Switch de IP 10.12.8.96 já estava atualizado
+12/04/2018 15:26:56 - CONEXAO SSH no Switch de IP 10.12.8.93 REALIZADA COM SUCESSO!
+12/04/2018 15:27:14 - Switch de IP 10.12.8.93 está com hora e data sincronizados!
+12/04/2018 15:27:14 - Firmware do Switch de IP 10.12.8.93 já estava atualizado
+12/04/2018 15:27:16 - CONEXAO SSH no Switch de IP 10.0.60.42 REALIZADA COM SUCESSO!
+12/04/2018 15:27:34 - Switch de IP 10.0.60.42 está com hora e data sincronizados!
+12/04/2018 15:27:34 - Firmware do Switch de IP 10.0.60.42 já estava atualizado
+12/04/2018 15:27:36 - CONEXAO SSH no Switch de IP 10.0.60.43 REALIZADA COM SUCESSO!
+12/04/2018 15:27:53 - Switch de IP 10.0.60.43 está com hora e data sincronizados!
+12/04/2018 15:27:53 - Firmware do Switch de IP 10.0.60.43 já estava atualizado
+13/04/2018 14:20:58 - CONEXAO SSH no Switch de IP 10.101.100.145 REALIZADA COM SUCESSO!
+13/04/2018 14:21:16 - Switch de IP 10.101.100.145 está com hora e data sincronizados!
+13/04/2018 14:21:16 - Firmware do Switch de IP 10.101.100.145 já estava atualizado
+13/04/2018 14:21:18 - CONEXAO SSH no Switch de IP 10.12.8.44 REALIZADA COM SUCESSO!
+13/04/2018 14:21:36 - Switch de IP 10.12.8.44 está com hora e data sincronizados!
+13/04/2018 14:21:36 - Firmware do Switch de IP 10.12.8.44 já estava atualizado
+13/04/2018 14:21:38 - CONEXAO SSH no Switch de IP 10.12.8.96 REALIZADA COM SUCESSO!
+13/04/2018 14:21:55 - Switch de IP 10.12.8.96 está com hora e data sincronizados!
+13/04/2018 14:21:55 - Firmware do Switch de IP 10.12.8.96 já estava atualizado
+13/04/2018 14:21:58 - CONEXAO SSH no Switch de IP 10.12.8.93 REALIZADA COM SUCESSO!
+13/04/2018 14:22:15 - Switch de IP 10.12.8.93 está com hora e data sincronizados!
+13/04/2018 14:22:15 - Firmware do Switch de IP 10.12.8.93 já estava atualizado
+13/04/2018 14:22:18 - CONEXAO SSH no Switch de IP 10.0.60.42 REALIZADA COM SUCESSO!
+13/04/2018 14:22:35 - Switch de IP 10.0.60.42 está com hora e data sincronizados!
+13/04/2018 14:22:35 - Firmware do Switch de IP 10.0.60.42 já estava atualizado
+13/04/2018 14:22:37 - CONEXAO SSH no Switch de IP 10.0.60.43 REALIZADA COM SUCESSO!
+13/04/2018 14:22:55 - Switch de IP 10.0.60.43 está com hora e data sincronizados!
+13/04/2018 14:22:55 - Firmware do Switch de IP 10.0.60.43 já estava atualizado
