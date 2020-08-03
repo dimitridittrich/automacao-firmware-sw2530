@@ -4,7 +4,7 @@ Projeto criado para manter os scripts de automação para atualização de firmw
 
 [Diagrama do script sem JOB (reinicialização e prova real no mesmo script)](/docs/Sem-Job-Model-Update-Switches.png)
 
-[Diagrama do script com JOB (reinicialização agendada por JOB, sem prova real)] (/docs/Com-Job-Model-Update-Switches.png)
+[Diagrama do script com JOB (reinicialização agendada por JOB, sem prova real)](/docs/Com-Job-Model-Update-Switches.png)
 
 
 ## Pré-requisitos para utilização deste projeto :exclamation:
